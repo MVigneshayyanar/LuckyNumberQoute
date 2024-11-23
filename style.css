@@ -1,0 +1,58 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    color: brown;
+}
+#heading{
+    justify-items: center;
+}
+#content p{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+
+}
+#fun{
+    font-size:5em;
+}
+button{
+    background-color: brown;
+    color: antiquewhite;
+    width: 100px;
+    height: 40px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: none;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+}
+h2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+input{
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+}
+#bel{
+    justify-self: center;
+    align-content: center;
+    display: flex;
+}
+#but{
+    justify-self: center;
+    align-content: center;
+    display: flex;
+}#para{
+    justify-self: center;
+    align-content: center;
+    display: flex;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: justify;
+}
